@@ -1,0 +1,106 @@
+body
+{
+	height:900px;
+	width:900px;
+background-repeat:no-repeat;
+	background-image: url("M/cat1.jpg");
+	background-position:top left;
+	margin:440px;
+	/*background-attachment:fixed;*/
+	background-attachment:scroll;
+
+}
+
+
+.b1 a:link{
+	
+	color:white;
+	text-decoration:none;
+	
+	
+	
+	
+}
+.b1 a:visited{
+	color:green;
+	background:tomato;
+	
+	
+}
+.a1 img
+{
+padding-right:30px;
+	margin-top:4px;	
+	
+}
+.a1
+{
+	margin-left:0px;
+	margin-top:12px;
+	float:left;
+	height:250px;
+	width:250px;
+	background-color:black;
+}
+
+.a2
+{
+	margin-top:12px;
+	margin-left:12px;
+	float:left;
+	height:250px;
+	width:250px;
+	background-color:red;
+}
+.a3{
+	margin-top:12px;
+	margin-left:12px;
+	float:left;
+	height:250px;
+	width:250px;
+	background-color:yellow;
+}
+
+
+
+
+
+/*
+*{
+border:2px solid red;
+	box-sizing:border-box;	
+	
+}
+*/
+
+
+ap a
+{
+background-color:tomato;
+color:white;
+font-size:20px;
+width:156px;
+margin-left:12px;
+border-top:4px solid black;
+border-bottom:4px solid blue;
+border-right:4px solid green;
+border-left:4px solid orange;
+height:50px;
+
+	
+}
+h3
+{
+	background:hsl(30,10%,50%);
+	
+}
+h4
+{
+	background:hsla(90, 100%, 64%, 0.12);
+}
+img{
+	position:relative;
+
+	left:5%;
+	
+}
